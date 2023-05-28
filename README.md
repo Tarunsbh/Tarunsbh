@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunsbh&label=Profile%20views&color=0e75b6&style=flat" alt="tarunsbh" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://eportfolio.mygreatlearning.com/tarun-sabharwal, https://www.youtube.com/@tarunsabharwal4948,](https://eportfolio.mygreatlearning.com/tarun-sabharwal, https://www.youtube.com/@tarunsabharwal4948,)
+- 👨‍💻 All of my projects are available at [ePortfolio, YouTube](https://eportfolio.mygreatlearning.com/tarun-sabharwal, https://www.youtube.com/@tarunsabharwal4948,)
 
 - 📫 How to reach me **tarunsbh@gmail.com**
 
