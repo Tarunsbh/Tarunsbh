@@ -1,3 +1,5 @@
+![logo](https://github.com/Tarunsbh/tarunsbh/blob/main/image_adobe_express.png)
+
 <h1 align="center">Hi 👋, I'm Tarun Sabharwal</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
