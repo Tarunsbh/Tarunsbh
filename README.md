@@ -1,9 +1,9 @@
-![logo](https://github.com/Tarunsbh/tarunsbh/blob/main/AdobeStock_442449827_Preview.ai)
+![logo](https://github.com/Tarunsbh/tarunsbh/blob/main/IT-banner-1160x363.jpg)
 
 <h1 align="center">Hi 👋, I'm Tarun Sabharwal</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<img align="right alt="codinggif" width="400" src ="https://giphy.com/embed/qgQUggAC3Pfv687qPC" >
+<img align="right alt="codinggif" width="400" src ="[https://giphy.com/embed/qgQUggAC3Pfv687qPC](https://github.com/Tarunsbh/tarunsbh/blob/main/image_processing20210511-12175-1v0etim.gif)" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunsbh&label=Profile%20views&color=0e75b6&style=flat" alt="tarunsbh" /> </p>
 
