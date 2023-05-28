@@ -1,4 +1,5 @@
 ![logo](https://github.com/Tarunsbh/tarunsbh/blob/main/IT-banner-1160x363.jpg)
+<body style="background-color: blue">
 
 <h1 align="center">Hi 👋, I'm Tarun Sabharwal</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
@@ -26,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarunsbh&show_icons=true&locale=en" alt="tarunsbh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunsbh&" alt="tarunsbh" /></p>
+  </body>
+  
